@@ -1,0 +1,67 @@
+body
+{
+  background-color: aliceblue;
+  background-size: 1400px 1000px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+  
+}
+.h1{
+  text-align:center;
+  color:black;
+  font-size:50px;
+
+}
+label{
+  color: white;
+}
+.head
+{
+  
+  text-align: center;
+  color: rgb(237, 14, 92);
+  font-size: 40px;
+}
+.head1
+{
+    text-align: center;
+  color: rgb(62, 193, 219);
+  font-size: 50px;
+}
+.card
+{
+    background-color: rgb(62, 193, 219);
+    
+    padding: 15px;
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    border-top-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+    color: white;
+    opacity: 0.6;
+    width: 300px;
+    height:530px;
+    margin: auto;
+}
+.username
+{
+  width:250px;
+  height:20px
+}
+.center
+{
+  text-align: center;
+}
+.btn
+{
+  text-align: center;
+  background-color: rgb(225, 214, 214);
+  color: rgb(9, 5, 5);;
+  height:40px;
+  width:70px;
+  cursor: pointer;
+  border-radius: 12px;
+  
+}
+

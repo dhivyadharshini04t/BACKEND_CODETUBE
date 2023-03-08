@@ -1,0 +1,82 @@
+body
+{
+  background-image: url("ezgif.com-webp-to-png.png");
+  background-size: 1400px 1000px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+  
+}
+.h1{
+  text-align:center;
+  color:black;
+  font-size:50px;
+
+}
+.head
+{
+  
+  text-align: center;
+  color: black;
+  font-size: 40px;
+}
+.head1
+{
+    text-align: center;
+  color:rgb(62, 193, 219);
+  font-size: 50px;
+}
+.card
+{
+    background-color:rgb(62, 193, 219);
+    
+    padding: 50px;
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    border-top-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+    color: white;
+    opacity: 0.6;
+    width: 250px;
+    height:510px;
+    margin: auto;
+}
+.username
+{
+  width:250px;
+  height:20px
+}
+.center
+{
+  text-align: center;
+}
+.btn
+{
+  text-align: center;
+  background-color: black;
+  color: white;;
+  height:40px;
+  width:70px;
+  cursor: pointer;
+  border-radius: 12px;
+  
+}
+select{
+   padding-left: 80px;
+   width:250px;
+   height:30px;
+   
+}
+span.psw {
+  padding: 20px;
+   display: block;
+   float: none;
+   color: black;
+   cursor: pointer;
+   font-size: large;
+   text-align: center;
+}
+.hh{
+  margin-top: 70px;
+  
+}
